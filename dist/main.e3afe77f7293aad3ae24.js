@@ -1,0 +1,2 @@
+/*! For license information please see main.e3afe77f7293aad3ae24.js.LICENSE.txt */
+(self.webpackChunkcanvas_tank=self.webpackChunkcanvas_tank||[]).push([["main"],{"./src/ts/index.ts":()=>{eval("\n\n//# sourceURL=webpack://canvas-tank/./src/ts/index.ts?")}},s=>{var a;a="./src/ts/index.ts",s(s.s=a)}]);
