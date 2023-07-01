@@ -21,6 +21,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "custom-dialog": "^1.0.2",
     "raw-loader": "^4.0.2",
     "scss": "^0.2.4",
     "scss-loader": "^0.0.1",
